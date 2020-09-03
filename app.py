@@ -83,8 +83,12 @@ x = input("x: ")
 y = int(x) + 1
 print(f"x: {x}, y: {y}")
 
-# Falsy
+#ways to write False or values that evaluate to False
+# False
 # ""
 # 0
 # None
+
+
 print("testing_" * 10)
+
